@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\IAK ITB\git pa aldy\Pertemuan4-master\Pertemuan4-master\Pertemuan4.iml" filepath="C:\IAK ITB\git pa aldy\Pertemuan4-master\Pertemuan4-master\Pertemuan4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan4-master.iml" filepath="$PROJECT_DIR$/Pertemuan4-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\IAK ITB\git pa aldy\Pertemuan4-master\Pertemuan4-master\app\app.iml" filepath="C:\IAK ITB\git pa aldy\Pertemuan4-master\Pertemuan4-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
